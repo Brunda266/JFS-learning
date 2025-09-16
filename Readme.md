@@ -1,3 +1,3 @@
-# git dev branch new feature
+# git dev branch
 day-1
 
