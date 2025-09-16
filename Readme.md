@@ -1,3 +1,3 @@
-# git dev branch
+# git main branch
 day-1
 
